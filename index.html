@@ -173,25 +173,45 @@
     <section id="contact">
         <div class="container">
             <h2 class="section-title">Get In Touch</h2>
-            <form class="contact-form">
-                <div class="form-group">
-                    <label for="name">Name</label>
-                    <input type="text" id="name" name="name" required>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Connect With Me</h3>
+                    <p>Feel free to reach out through any of these platforms:</p>
+                    <div class="social-contact-links">
+                        <a href="https://wa.me/254700000000" target="_blank" class="social-contact-link whatsapp">
+                            <span class="social-icon">📱</span>
+                            <span class="social-text">WhatsApp</span>
+                        </a>
+                        <a href="https://linkedin.com/in/abel-koech" target="_blank" class="social-contact-link linkedin">
+                            <span class="social-icon">💼</span>
+                            <span class="social-text">LinkedIn</span>
+                        </a>
+                        <a href="https://github.com/abel-koech" target="_blank" class="social-contact-link github">
+                            <span class="social-icon">🐙</span>
+                            <span class="social-text">GitHub</span>
+                        </a>
+                    </div>
                 </div>
-                <div class="form-group">
-                    <label for="email">Email</label>
-                    <input type="email" id="email" name="email" required>
-                </div>
-                <div class="form-group">
-                    <label for="subject">Subject</label>
-                    <input type="text" id="subject" name="subject" required>
-                </div>
-                <div class="form-group">
-                    <label for="message">Message</label>
-                    <textarea id="message" name="message" rows="5" required></textarea>
-                </div>
-                <button type="submit" class="submit-btn">Send Message</button>
-            </form>
+                <form class="contact-form">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <input type="text" id="subject" name="subject" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+            </div>
         </div>
     </section>
 
@@ -207,6 +227,8 @@
             <p>&copy; 2024 Abel Koech. All rights reserved.</p>
         </div>
     </footer>
+
+    <!-- Javascript for toogling the mobile menu navbar -->
 
     <script>
         // Mobile Menu Toggle
