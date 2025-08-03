@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my skills, experience
 
 ## 🚀 Live Demo
 
-[View Portfolio](index.html)
+[View Portfolio](https://plp-hackathon-seven.vercel.app/)
 
 ## ✨ Features
 
@@ -43,7 +43,7 @@ A modern, responsive personal portfolio website showcasing my skills, experience
 ## 📁 Project Structure
 
 ```
-hackerthon/
+plp_hackathon/
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styles
 └── README.md           # Project documentation
@@ -122,12 +122,6 @@ The portfolio is fully responsive with breakpoints at:
 - ✅ Edge (latest)
 - ✅ Mobile browsers
 
-## �� Contact
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-- **Portfolio**: [This Website]
 
 ## 📄 License
 
@@ -141,8 +135,7 @@ Feel free to fork this project and customize it for your own portfolio. If you f
 
 - Built with pure HTML and CSS
 - Inspired by modern portfolio designs
-- Icons from Unicode emoji set
-- Fonts from system font stack
+- Fonts from google font
 
 ---
 
