@@ -57,7 +57,7 @@ plp_hackathon/
 - **Frontend**: HTML, CSS, Tailwind CSS, React, Next.js, JavaScript
 - **Backend**: Python, Flask, Django, Golang
 - **Tools**: Git, VS Code, Postman, REST APIs
-- **Databases**: SQLite, PostgreSQL, MongoDB
+- **Databases**: SQLite, PostgreSQL, MySQL
 
 ### Education
 - **PLP Academy** (2025 - Present) - Software Engineering
